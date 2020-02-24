@@ -31,7 +31,7 @@ static void sort(int arr[]) {
 [5]=26 ....
 ```
 
-```java
+```
   /**
    * 输出数组内容
    * @param arr
