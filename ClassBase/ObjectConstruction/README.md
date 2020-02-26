@@ -11,3 +11,6 @@ Person person = new Person();
 Person zhangsan = new Person("张三", 18);
 Person lisi = new Person("李四");
 ```
+
+## 练习解析
+参考src下的代码
