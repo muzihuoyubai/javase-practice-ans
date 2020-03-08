@@ -1,6 +1,6 @@
 package club.banyuan.area;
 
-public class Rectangle extends Shape {
+public class Rectangle implements Shapeable {
 
   private double a, b;
 
